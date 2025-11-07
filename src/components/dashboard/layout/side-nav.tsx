@@ -70,7 +70,7 @@ export function SideNav(): React.JSX.Element {
               Workspace
             </Typography>
             <Typography color="inherit" variant="subtitle1">
-              Devias
+              Flam Dashboard
             </Typography>
           </Box>
           <CaretUpDownIcon />
@@ -94,7 +94,7 @@ export function SideNav(): React.JSX.Element {
           <Box
             component="img"
             alt="Pro version"
-            src="/assets/devias-kit-pro.png"
+            src="/assets/images.jpg"
             sx={{ height: 'auto', width: '160px' }}
           />
         </Box>
