@@ -1,14 +1,5 @@
 
 High-Performance Next.js 14 Dashboard
-        |
-| ------------------------ | :--------------------------------------------------------------------------- |
-| **8** Pages              | **80+** Pages                                                                |
-| ✔ Custom Authentication  | ✔ Authentication with **Amplify**, **Auth0**, **Firebase** and **Supabase**  |
-| -                        | ✔ Vite Version                                                               |
-| -                        | ✔ Dark Mode Support                                                          |
-| -                        | ✔ Complete Users Flows                                                       |
-| -                        | ✔ Premium Technical Support                                                  |
-
 
 ## File Structure
 
